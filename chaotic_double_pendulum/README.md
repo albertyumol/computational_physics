@@ -9,3 +9,9 @@ The study of **double pendulums** isn't remotely developed, partly due to the fa
 1. For which initial conditions will the pendulum flip? Not flip?
 
 2. Analyze the points for which the pendulum does not flip outside the energetically-forbidden region (EFR).
+
+## Solution
+
+**Primary procedures for solving problem:** Runge-Kutta Method, Numerical Intersection, Numerical Iteration, Graphing & Visualization
+
+**Predicted outcomes:** fat fractal, unflip points outside EFR
