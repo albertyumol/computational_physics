@@ -23,3 +23,7 @@ The study of **double pendulums** isn't remotely developed, partly due to the fa
 3. Conditions involve both angles intersecting to either –π or π, where angles are measured positively CCW from –vertical axis of each c.s. with mass at the origin. Also, when <img src="https://render.githubusercontent.com/render/math?math=2\cos \theta_1 %2B \cos \theta_2 ≥ 1">, t is 1010s, implying an energetically forbidden region for flipping.
 4. The time step of the Runge-Kutta method-expressed quantities is iteratively changed until conditions in 3 are met.
 5. All generated times are written down a `.txt` file to be analyzed and graphed using Python imshow.
+
+## Conclusion
+
+Numerical simulations of the double pendulum reveal that the set of initial conditions that do not result in either pendulum flipping within a set period of time has a fractal stucture.
