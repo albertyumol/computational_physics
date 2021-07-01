@@ -20,4 +20,4 @@ The study of **double pendulums** isn't remotely developed, partly due to the fa
 
 1. Double pendulum equations of motion reduced to Hamiltonian’s equations for two angles and two momenta
 2. Ruge-Kutta method used to solve for momenta and angles given initial conditions where both momenta are zero and both angles varying depending on desired dimensions.
-3. Conditions involve both angles intersecting to either –π or π, where angles are measured positively CCW from –vertical axis of each c.s. with mass at the origin. Also, when <img src="https://render.githubusercontent.com/render/math?math=2cosθ_1 %2B cosθ_2 ≥ 1">, t is 1010s, implying an energetically forbidden region for flipping.
+3. Conditions involve both angles intersecting to either –π or π, where angles are measured positively CCW from –vertical axis of each c.s. with mass at the origin. Also, when <img src="https://render.githubusercontent.com/render/math?math=2\coscos \theta_1 %2B \cos \theta_2 ≥ 1">, t is 1010s, implying an energetically forbidden region for flipping.
